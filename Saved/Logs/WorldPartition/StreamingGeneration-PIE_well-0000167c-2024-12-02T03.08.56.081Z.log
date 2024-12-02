@@ -1,0 +1,31 @@
+[+] Containers:
+ |- [+] Container: /Game/LevelInstances/well
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:86F2517C40825AC66B494F8244F423F1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3502BF1CD3402_1881098635 Label:Cylinder5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-87.500 Y=-87.500 Z=0.000), Max=(X=87.500 Y=87.500 Z=250.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- Guid:D1E06D224DC05F1AF797BFA2C2706A68 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:86F2517C40825AC66B494F8244F423F1 BaseClass: NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_D85ED3502BF1CD3402_1881098635 Label:Cylinder5 SpatiallyLoaded:1 Bounds:IsValid=true, Min=(X=-87.500 Y=-87.500 Z=0.000), Max=(X=87.500 Y=87.500 Z=250.000) RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:1 ListedInSceneOutliner:1 IsMainWorldOnly:0
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:D1E06D224DC05F1AF797BFA2C2706A68 BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:None SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/LevelInstances/well
+----------------------------------------------------------------------------------------------------------------
+well - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of well Persistent Level
+ |- Always loaded Actor Count: 2 
+ |- Actor Path: /Game/LevelInstances/well.well:PersistentLevel.StaticMeshActor_UAID_D85ED3502BF1CD3402_1881098635
+ |- Actor Package: /Game/__ExternalActors__/LevelInstances/well/A/6E/VRTYMYQYKK8B728Q0IPJ0H
+ |- Actor Path: /Game/LevelInstances/well.well:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/LevelInstances/well/A/09/TJKVV96ZWN12XV6N7DY4S5
+
+----------------------------------------------------------------------------------------------------------------
+well - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+
